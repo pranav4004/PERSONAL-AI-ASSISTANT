@@ -1,0 +1,9 @@
+googletrans==4.0.0rc1
+pyjokes==0.6.0
+requests==2.31.0
+langdetect==1.0.9
+pywhatkit==5.4
+psutil==5.9.8
+datetime
+streamlit==1.33.0
+SpeechRecognition==3.10.3
